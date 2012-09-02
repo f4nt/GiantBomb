@@ -279,7 +279,6 @@ class SearchResult:
 
     @staticmethod
     def NewFromJsonDict(data):
-        print data
         if data:
             return SearchResult(id=data.get('id'),
                                 name=data.get('name', None),
