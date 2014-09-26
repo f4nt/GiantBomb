@@ -26,8 +26,10 @@ Basic usage:
  * getVideo(video_id)
  * getPlatform(platform_id)
  * getPlatforms(offset)
+ * getFranchise(franchise_id)
+ * getFranchises(offset)
  
-*Everything return an object:*  
+*Everything returns an object:*  
 
 **Examples:**  
 
